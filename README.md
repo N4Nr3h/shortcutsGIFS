@@ -1,0 +1,2 @@
+# shortcutsGIFS
+Gifs para Shortcuts
